@@ -14,6 +14,7 @@ my_proj2 = "my_project.my_module:my_method2"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^4.0.1"
+setuptools = "^75.3.0"
 
 [build-system]
 requires = ["poetry-core"]
